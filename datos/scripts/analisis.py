@@ -1,1 +1,0 @@
-print("Analisis de ventas")
