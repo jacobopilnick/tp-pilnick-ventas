@@ -62,7 +62,7 @@ Para ejecutar el proyecto:
 - GitHub  
 - Jira  
 - Python  
-
+- matplotlib (para la generación de gráficos)
 ---
 
 ## Comentario final
