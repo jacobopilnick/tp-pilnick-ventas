@@ -50,8 +50,9 @@ El objetivo es poder trabajar con estos datos para obtener métricas básicas.
 
 Para ejecutar el proyecto:
 
-1. Abrir el código en Google Colab o cualquier entorno de Python  
-2. Ejecutar el archivo que se encuentra en la carpeta /scripts  
+1. Abrir el archivo analisis.py en un entorno Python.
+2. Ejecutar el archivo ubicado en la carpeta /scripts.
+3. Observar los resultados generados a partir del dataset de ventas.
 
 ---
 
@@ -61,7 +62,6 @@ Para ejecutar el proyecto:
 - GitHub  
 - Jira  
 - Python  
-- Google Colab  
 
 ---
 
