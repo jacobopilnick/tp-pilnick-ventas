@@ -1,1 +1,5 @@
 Resultados del analisis
+
+Cantidad de ventas: 15
+Total vendido: $71400
+Promedio de ventas: $4760
